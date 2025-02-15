@@ -1,0 +1,16 @@
+Source: fg-dashy
+Section: unknown
+Priority: optional
+Maintainer: Lucas Priestley <admin@freyground.com>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.7.0
+
+Package: fg-dashy
+Architecture: any
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: Freyground Dashy Service
+  Provides the static components of the freyground dashy service.

@@ -1,1 +1,0 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://freylint.github.io/ppa ./

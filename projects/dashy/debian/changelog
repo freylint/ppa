@@ -1,0 +1,5 @@
+fg-dashy (0.1.0-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Lucas Priestley <admin@freyground.com>  Fri, 14 Feb 2025 23:29:24 +0000

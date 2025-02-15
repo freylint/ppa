@@ -1,0 +1,16 @@
+Package: fg-dashy
+Version: 0.1.0-1
+Architecture: amd64
+Maintainer: Lucas Priestley <admin@freyground.com>
+Installed-Size: 8
+Priority: optional
+Section: unknown
+Filename: pool/main/f/fg-dashy/fg-dashy_0.1.0-1_amd64.deb
+Size: 1728
+SHA512: 918ea1aabe23f643ce7b850d2452ff57ab3df1128ff87b0a09456cd9a8f341c3ad222a2a52158bf3a84039c8b726eae7f07a698a8f56fff4f96aa452f5dd48a6
+SHA256: 7e5ca5c3b4f22f0089f8bec4161026cabeba4669d0b19e009dd807d7b8a0a9d0
+SHA1: 1bb34933586852fa815835bec29f63dd2b07f8c7
+MD5sum: c62008cd367ad4ce12f26c77fb767ae2
+Description: Freyground Dashy Service
+  Provides the static components of the freyground dashy service.
+

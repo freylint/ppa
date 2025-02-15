@@ -1,0 +1,6 @@
+Archive: trixie
+Component: main
+Origin: Freyground
+Label: Freyground
+Architecture: source
+Description: Apt repository for Freyground
