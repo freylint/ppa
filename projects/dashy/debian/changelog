@@ -1,5 +1,6 @@
-fg-dashy (0.1.0-1) UNRELEASED; urgency=medium
+fg-dashy (0.1.0-2) UNRELEASED; urgency=medium
 
   * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Fix source tarball build logic for fg-dasher.
 
- -- Lucas Priestley <admin@freyground.com>  Fri, 14 Feb 2025 23:29:24 +0000
+ -- Lucas Priestley <admin@freyground.com>  Sat, 15 Feb 2025 01:18:25 +0000

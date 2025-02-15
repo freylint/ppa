@@ -8,12 +8,14 @@ all: package
 build:
 	mkdir -p ${BUILD_DIR}
 	rm -rf ${BUILD_DIR}/debian
-	tar -czvf ${BUILD_DIR}/../${PKGNAME}_${VERSION}.orig.tar.gz src/
+	tar -czvf ${BUILD_DIR}/../${PKGNAME}_${VERSION}.orig.tar.gz Makefile src/*
 	cp -r debian ${BUILD_DIR}
 
 package: build
 	cd ${BUILD_DIR} && dpkg-buildpackage
 	
+update:
+	dch -i
 
 install:
 	mkdir -p /etc/freyground/${pkgname}
