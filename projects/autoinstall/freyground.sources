@@ -1,0 +1,5 @@
+Types: deb
+URIs: https://raw.githubusercontent.com/freylint/ppa/refs/heads/main/repo/debian/
+Suites: trixie
+Components: main
+Signed-By: /usr/share/keyrings/freyground.gpg

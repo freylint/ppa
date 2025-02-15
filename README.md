@@ -1,5 +1,5 @@
 # Freyground APT PPA
 
-Add this PPA to your system:
-> TODO
+You can add this PPA to your system by running `make install`.
+Please inspect the apt source, install script, and key at [projects/autoinstall](projects/autoinstall/).
 
